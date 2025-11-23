@@ -28,7 +28,6 @@ The tool hosts a realistic "Online Meeting" landing page (styled with Bootstrap 
 ```text
 MEETINGQM/
 ├── captures/              # Stores captured webcam images (.png)
-├── cf.log                 # Log file for Cloudflare Tunnel connection
 ├── ip.php                 # Backend to process IP and Device Info (JSON)
 ├── metting.sh             # Main executable script (Bash)
 ├── OnlineMeeting.html     # The frontend HTML/JS template (Master file)
