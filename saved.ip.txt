@@ -1,0 +1,131 @@
+[23/11/2025 11:00:22 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : 1536x864
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 4g
+------------------------------
+
+[23/11/2025 11:00:23 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[23/11/2025 11:03:34 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
+[23/11/2025 11:03:36 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[23/11/2025 11:03:53 PM] IP: 42.113.43.196 | UA: WhatsApp/2
+[23/11/2025 11:04:20 PM] IP: 112.197.244.54 | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS/684 ZaloTheme/light ZaloLanguage/vn
+---[ DEVICE INFO RECEIVED ]---
+IP        : 112.197.244.54
+Screen    : x
+Platform  : iPhone
+CPU Cores : 4
+RAM (Est) : N/A GB
+Timezone  : Asia/Saigon
+Network   : 
+------------------------------
+
+[23/11/2025 11:04:48 PM] IP: 112.197.244.54 | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS/684 ZaloTheme/light ZaloLanguage/vn
+---[ DEVICE INFO RECEIVED ]---
+IP        : 112.197.244.54
+Screen    : x
+Platform  : iPhone
+CPU Cores : 4
+RAM (Est) : N/A GB
+Timezone  : Asia/Saigon
+Network   : 
+------------------------------
+
+[23/11/2025 11:05:50 PM] IP: 112.197.244.54 | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS/684 ZaloTheme/light ZaloLanguage/vn
+---[ DEVICE INFO RECEIVED ]---
+IP        : 112.197.244.54
+Screen    : x
+Platform  : iPhone
+CPU Cores : 4
+RAM (Est) : N/A GB
+Timezone  : Asia/Saigon
+Network   : 
+------------------------------
+
+---[ DEVICE INFO RECEIVED ]---
+IP        : 112.197.244.54
+Screen    : x
+Platform  : iPhone
+CPU Cores : 4
+RAM (Est) : N/A GB
+Timezone  : Asia/Saigon
+Network   : 
+------------------------------
+
+[23/11/2025 11:06:00 PM] IP: 112.197.244.54 | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Mobile/15E148 Safari/604.1
+[23/11/2025 11:13:52 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
+[23/11/2025 11:13:53 PM] IP: 42.113.43.196 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Linux x86_64
+CPU Cores : 4
+RAM (Est) : N/A GB
+Timezone  : America/New_York
+Network   : 
+------------------------------
+
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
+---[ DEVICE INFO RECEIVED ]---
+IP        : 42.113.43.196
+Screen    : x
+Platform  : Win32
+CPU Cores : 16
+RAM (Est) : 8 GB
+Timezone  : Etc/GMT-7
+Network   : 
+------------------------------
+
